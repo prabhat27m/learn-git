@@ -15,3 +15,6 @@ mytup=(1,2,3,4)
 newtup=(8,9)
 mytup.__add__(newtup)
 print(mytup)
+
+set ={1,2,3,4,4}
+print(set)
